@@ -1,3 +1,9 @@
+20260410
+- Migrated updates from Upper PLC (Not extra camera logic)
+- Updated HMIs (Overview sceer bug, WIP scaling screen issue)
+
+
+
 20260406
 - Migrated all Upper PLC improvements to this PLC program.  Downloaded and establish comms.
 - Renamed HMIs terminals to match Upper naming convention
