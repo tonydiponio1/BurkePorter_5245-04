@@ -1,7 +1,7 @@
 2026-04-15
 - Bypassed all the cameras since they were moved.
 - Updated the Andon AOI to v1.1
-- Updated the Ascentaliytics logic
+- Updated the Ascentialytics logic
  
 
 2026-04-10
