@@ -1,3 +1,7 @@
+2026-04-16
+- Updated the Andon HMI Global object to match the v1.1 AOI
+
+
 2026-04-15
 - Bypassed all the cameras since they were moved.
 - Updated the Andon AOI to v1.1
