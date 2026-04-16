@@ -1,5 +1,7 @@
 2026-04-16
 - Updated the Andon HMI Global object to match the v1.1 AOI
+- Added 6 new camera modules to the I/O Config.
+- Added new camera routines, updated Cycle_Inspection routine. 
 
 
 2026-04-15
