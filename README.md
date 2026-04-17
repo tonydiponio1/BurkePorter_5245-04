@@ -1,3 +1,10 @@
+2026-04-17
+- Updated all HMIs for 4 camera system
+- Added extra Cycle_Inspection step [4] to reset cameras
+- Added changes for CycleStep_HMI routines from uppers.
+- Added names to cameras to clearly identify and get ready for FTP server
+  
+
 2026-04-16
 - Updated the Andon HMI Global object to match the v1.1 AOI
 - Added 6 new camera modules to the I/O Config.
