@@ -1,3 +1,7 @@
+2026-04-28
+- Updated HMIs camera screen to show 5 cameras
+  
+
 2026-04-24
 - Updated incorrect messages on all HMIs for robot access door
 - Updated the Ascentialytics UDT and routines
