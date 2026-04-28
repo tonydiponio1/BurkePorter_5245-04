@@ -1,4 +1,8 @@
 2026-04-28
+- Updated HMIs & PLC for WARN about both WIP nests full [308], & FAULT for Part stuck in reject chute [309]
+
+
+2026-04-27
 - Updated HMIs camera screen to show 5 cameras
   
 
