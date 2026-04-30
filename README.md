@@ -1,3 +1,7 @@
+2026-04-30
+- Updated PLC & HMIs for new camera comm faults
+ 
+
 2026-04-29
 - Updated PLC for Status.Fail logic, ProcessStarted OTU logic, tag descriptions for ProcessStarted, Cycle inspection logic for 5 camera system, Conveyor WIP count failsafe logic.  
  
