@@ -1,3 +1,7 @@
+2026-05-04
+- Updated camera data output tool to match the bitmap of the ascentialytics software on Lane 1 cameras
+
+
 2026-04-30
 - Updated PLC & HMIs for new camera comm faults
  
