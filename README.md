@@ -1,3 +1,7 @@
+2026-05-06
+- Added counter for camera fails (request from Hari to Dave M).  One rung per lane at the end of the Main routine.
+  
+
 2026-05-05
 - Added "NotchTapeLLFold.O_atHomePosn" to Notch tape Dispense Control 'Part in Place' output.  This was to ensure the Tab fold was completed before we send the Vertical tape arm down to apply the tape.  There is a clearance issue if the Fold cyclinder in still at work when we send the tape arm down.
 
