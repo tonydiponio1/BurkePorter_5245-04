@@ -1,6 +1,6 @@
 2026-05-06
 - Added counter for camera fails (request from Hari to Dave M).  One rung per lane at the end of the Main routine.
-- Updated camera data output tool to match the bitmap of the ascentialytics software on Lane 2&3 cameras
+- Updated camera data output tool to match the bitmap of the ascentialytics software on Lane 2 & 3 cameras
   
 
 2026-05-05
