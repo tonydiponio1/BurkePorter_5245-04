@@ -1,3 +1,6 @@
+2026-05-07
+- Made 2 updates to Rbt CTRL routines sent by Dave M. to prevent sending th rbt to Lane pick in manual and sending the rbt to Maint position from the Conveyor HMI while the lane access door was down.
+
 2026-05-06
 - Added counter for camera fails (request from Hari to Dave M).  One rung per lane at the end of the Main routine.
 - Updated camera data output tool to match the bitmap of the ascentialytics software on Lane 2 & 3 cameras.  Still need camera tools added once they are setup in the cameras by Keyence.
