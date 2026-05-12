@@ -1,3 +1,7 @@
+2026-05-12
+- Added Tape Low counters to initiate faults after 10 parts. 6 counters per lane.
+
+
 2026-05-07
 - Made 2 updates to Rbt CTRL routines sent by Dave M. to prevent sending th rbt to Lane pick in manual and sending the rbt to Maint position from the Conveyor HMI while the lane access door was down.
 
