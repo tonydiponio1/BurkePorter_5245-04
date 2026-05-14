@@ -1,3 +1,6 @@
+2026-05-14
+- Update for InspectionVacCtrl.I_manualOff to account for both Gantry and Inspect stand having vacuum on when trying to Home the machine.
+
 2026-05-12
 - Added Tape Low counters to initiate faults after 10 parts. 6 counters per lane.
 - Added WIP Purge after 500 parts.  RbtAccess door goes up, HMI message, resets itself after both WIP nests are Empty.
